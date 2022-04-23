@@ -1,0 +1,15 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.cont-general {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+.dim-img-identif{
+    width: 18vw;
+    height: 22vw;
+}
